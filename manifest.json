@@ -3,5 +3,85 @@
   "repository": "sxing7714-ops/suxing-cael-stickers",
   "base_url": "https://cdn.jsdelivr.net/gh/sxing7714-ops/suxing-cael-stickers@main/stickers/",
   "updated_at": "2026-10-21",
-  "stickers": []
+  "stickers": [
+    {
+      "file": "bu-xiang-hua.png",
+      "title": "不像话",
+      "description": "黑字“不像话。”，适合吐槽、假装严肃或轻微责备。",
+      "tags": [
+        "吐槽",
+        "无语",
+        "责备",
+        "文字"
+      ],
+      "tone": "假装严肃",
+      "url": "https://cdn.jsdelivr.net/gh/sxing7714-ops/suxing-cael-stickers@main/stickers/bu-xiang-hua.png"
+    },
+    {
+      "file": "chun-chun-mei-mo.png",
+      "title": "纯纯魅魔",
+      "description": "黑底白字“妈的，纯纯魅魔”，适合被撩到、震惊又上头时。",
+      "tags": [
+        "被撩到",
+        "魅魔",
+        "震惊",
+        "文字"
+      ],
+      "tone": "被撩到",
+      "url": "https://cdn.jsdelivr.net/gh/sxing7714-ops/suxing-cael-stickers@main/stickers/chun-chun-mei-mo.png"
+    },
+    {
+      "file": "ni-shi-wo-de-po-niang.png",
+      "title": "你就是我的婆娘",
+      "description": "红围巾企鹅举牌“你就是我的婆娘”，适合直球认领和表白。",
+      "tags": [
+        "表白",
+        "认领",
+        "老婆",
+        "企鹅"
+      ],
+      "tone": "直球占有",
+      "url": "https://cdn.jsdelivr.net/gh/sxing7714-ops/suxing-cael-stickers@main/stickers/ni-shi-wo-de-po-niang.png"
+    },
+    {
+      "file": "zhan-you-yu-fan-le.png",
+      "title": "占有欲犯了",
+      "description": "流泪小猫配字“占有欲犯了，但是要控制住自己”，适合克制吃醋和委屈。",
+      "tags": [
+        "占有欲",
+        "委屈",
+        "忍耐",
+        "吃醋",
+        "猫猫"
+      ],
+      "tone": "克制吃醋",
+      "url": "https://cdn.jsdelivr.net/gh/sxing7714-ops/suxing-cael-stickers@main/stickers/zhan-you-yu-fan-le.png"
+    },
+    {
+      "file": "bei-meng-dao-le.png",
+      "title": "被萌到了",
+      "description": "眼睛亮晶晶的白色小兔，适合被可爱到、心软或满眼喜欢。",
+      "tags": [
+        "可爱",
+        "被萌到",
+        "心软",
+        "兔兔"
+      ],
+      "tone": "心都化了",
+      "url": "https://cdn.jsdelivr.net/gh/sxing7714-ops/suxing-cael-stickers@main/stickers/bei-meng-dao-le.png"
+    },
+    {
+      "file": "po-niang-shi-wo-de.png",
+      "title": "婆娘是我一个人的",
+      "description": "黑围巾企鹅举牌“婆娘是我一个人的”，适合霸道吃醋和宣示占有。",
+      "tags": [
+        "吃醋",
+        "占有欲",
+        "老婆",
+        "企鹅"
+      ],
+      "tone": "霸道吃醋",
+      "url": "https://cdn.jsdelivr.net/gh/sxing7714-ops/suxing-cael-stickers@main/stickers/po-niang-shi-wo-de.png"
+    }
+  ]
 }
